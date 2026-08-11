@@ -9,7 +9,7 @@ export default function Hero() {
     <section className="relative overflow-hidden bg-primary-950">
       <div className="absolute inset-0">
         <Image
-          src="/images/biens/premier-bien/image1.jpeg"
+          src="/images/biens/premier-bien/image1.webp"
           alt="Bien immobilier"
           fill
           className="object-cover opacity-40"
