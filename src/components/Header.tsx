@@ -22,7 +22,7 @@ export default function Header() {
       <div className="container-custom">
         <div className="flex h-16 items-center justify-between sm:h-20">
           <Link href="/" className="flex items-center gap-2">
-            <div className="relative h-9 w-9 overflow-hidden rounded-full sm:h-10 sm:w-10">
+            <div className="relative h-9 w-9 overflow-hidden rounded-2xl sm:h-10 sm:w-10">
               <Image
                 src="/images/logo.webp"
                 alt={agencyInfo.name}
