@@ -5,6 +5,9 @@ import './globals.css';
 export const metadata: Metadata = {
   title: `${agencyInfo.name} - Agence Immobilière à Ouagadougou`,
   description: agencyInfo.description,
+  icons: {
+    icon: '/images/logo.webp',
+  },
 };
 
 export const viewport: Viewport = {
