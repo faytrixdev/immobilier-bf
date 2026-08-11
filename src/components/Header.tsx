@@ -24,7 +24,7 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-2">
             <div className="relative h-9 w-9 overflow-hidden rounded-full sm:h-10 sm:w-10">
               <Image
-                src="/images/logo.jpeg"
+                src="/images/logo.webp"
                 alt={agencyInfo.name}
                 fill
                 className="object-cover"

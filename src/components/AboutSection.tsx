@@ -10,7 +10,7 @@ export default function AboutSection() {
         <div className="grid items-center gap-10 lg:grid-cols-2 lg:gap-16">
           <div className="relative aspect-square overflow-hidden rounded-2xl">
             <Image
-              src="/images/logo.jpeg"
+              src="/images/logo.webp"
               alt={agencyInfo.name}
               fill
               className="object-cover"
